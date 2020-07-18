@@ -1,0 +1,24 @@
+C:\Users\sevda_000\documents\visual studio 2010\Projects\AlisVeris_App\AlisVeris_App\Bin\Debug\ApplicationIcon.png
+C:\Users\sevda_000\documents\visual studio 2010\Projects\AlisVeris_App\AlisVeris_App\Bin\Debug\Background.png
+C:\Users\sevda_000\documents\visual studio 2010\Projects\AlisVeris_App\AlisVeris_App\Bin\Debug\AlisVeris_App.dll
+C:\Users\sevda_000\documents\visual studio 2010\Projects\AlisVeris_App\AlisVeris_App\Bin\Debug\AlisVeris_App.pdb
+C:\Users\sevda_000\documents\visual studio 2010\Projects\AlisVeris_App\AlisVeris_App\Bin\Debug\AppManifest.xaml
+C:\Users\sevda_000\documents\visual studio 2010\Projects\AlisVeris_App\AlisVeris_App\Bin\Debug\AlisVeris_App.xap
+C:\Users\sevda_000\documents\visual studio 2010\Projects\AlisVeris_App\AlisVeris_App\obj\Debug\App.g.i.cs
+C:\Users\sevda_000\documents\visual studio 2010\Projects\AlisVeris_App\AlisVeris_App\obj\Debug\MainPage.g.i.cs
+C:\Users\sevda_000\documents\visual studio 2010\Projects\AlisVeris_App\AlisVeris_App\obj\Debug\AlisVeris_App.g.resources
+C:\Users\sevda_000\documents\visual studio 2010\Projects\AlisVeris_App\AlisVeris_App\obj\Debug\AlisVeris_App.dll
+C:\Users\sevda_000\documents\visual studio 2010\Projects\AlisVeris_App\AlisVeris_App\obj\Debug\AlisVeris_App.pdb
+C:\Users\sevda_000\documents\visual studio 2010\Projects\AlisVeris_App\AlisVeris_App\obj\Debug\XapCacheFile.xml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\AlisVeris_App\AlisVeris_App\Bin\Debug\ApplicationIcon.png
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\AlisVeris_App\AlisVeris_App\Bin\Debug\Background.png
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\AlisVeris_App\AlisVeris_App\Bin\Debug\AlisVeris_App.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\AlisVeris_App\AlisVeris_App\Bin\Debug\AlisVeris_App.pdb
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\AlisVeris_App\AlisVeris_App\Bin\Debug\AppManifest.xaml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\AlisVeris_App\AlisVeris_App\Bin\Debug\AlisVeris_App.xap
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\AlisVeris_App\AlisVeris_App\obj\Debug\App.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\AlisVeris_App\AlisVeris_App\obj\Debug\MainPage.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\AlisVeris_App\AlisVeris_App\obj\Debug\AlisVeris_App.g.resources
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\AlisVeris_App\AlisVeris_App\obj\Debug\AlisVeris_App.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\AlisVeris_App\AlisVeris_App\obj\Debug\AlisVeris_App.pdb
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\AlisVeris_App\AlisVeris_App\obj\Debug\XapCacheFile.xml

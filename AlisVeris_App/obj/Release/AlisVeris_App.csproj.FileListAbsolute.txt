@@ -1,0 +1,30 @@
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\AlisVeris_App\AlisVeris_App\Bin\Release\ApplicationIcon.png
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\AlisVeris_App\AlisVeris_App\Bin\Release\Background.png
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\AlisVeris_App\AlisVeris_App\Bin\Release\AlisVeris_App.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\AlisVeris_App\AlisVeris_App\Bin\Release\AlisVeris_App.pdb
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\AlisVeris_App\AlisVeris_App\Bin\Release\AppManifest.xaml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\AlisVeris_App\AlisVeris_App\Bin\Release\AlisVeris_App.xap
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\AlisVeris_App\AlisVeris_App\obj\Release\App.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\AlisVeris_App\AlisVeris_App\obj\Release\MainPage.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\AlisVeris_App\AlisVeris_App\obj\Release\AlisVeris_App.g.resources
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\AlisVeris_App\AlisVeris_App\obj\Release\AlisVeris_App.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\AlisVeris_App\AlisVeris_App\obj\Release\AlisVeris_App.pdb
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\AlisVeris_App\AlisVeris_App\obj\Release\XapCacheFile.xml
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\AlisVeris_App\AlisVeris_App\Bin\Release\ApplicationIcon.png
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\AlisVeris_App\AlisVeris_App\Bin\Release\Background.png
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\AlisVeris_App\AlisVeris_App\Bin\Release\AlisVeris_App.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\AlisVeris_App\AlisVeris_App\Bin\Release\AlisVeris_App.pdb
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\AlisVeris_App\AlisVeris_App\Bin\Release\AppManifest.xaml
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\AlisVeris_App\AlisVeris_App\Bin\Release\AlisVeris_App.xap
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\AlisVeris_App\AlisVeris_App\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\AlisVeris_App\AlisVeris_App\obj\Release\App.g.i.cs
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\AlisVeris_App\AlisVeris_App\obj\Release\MainPage.g.i.cs
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\AlisVeris_App\AlisVeris_App\obj\Release\AlisVeris_App.g.resources
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\AlisVeris_App\AlisVeris_App\obj\Release\AlisVeris_App.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\AlisVeris_App\AlisVeris_App\obj\Release\AlisVeris_App.pdb
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\AlisVeris_App\AlisVeris_App\obj\Release\XapCacheFile.xml
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\AlisVeris_App\AlisVeris_App\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\AlisVeris_App\AlisVeris_App\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\AlisVeris_App\AlisVeris_App\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\AlisVeris_App\AlisVeris_App\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\AlisVeris_App\AlisVeris_App\Bin\Release\Microsoft.Phone.Controls.xml
